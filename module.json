@@ -2,7 +2,7 @@
   "name": "tabletop-rpg-music",
   "id": "tabletop-rpg-music",
   "title": "Tabletop RPG Music",
-  "description": "<p>A free and evergrowing collection of Fantasy and Sci Fi tracks for Foundry users. Support me on <a href='https://www.patreon.com/tabletoprpgmusic' title='Patreon'>Patreon</a> to help me keep writing!</p>",
+  "description": "A free and evergrowing collection of Fantasy and Sci Fi tracks for Foundry users. Support me on <a href='https://www.patreon.com/tabletoprpgmusic' title='Patreon'>Patreon</a> to help me keep writing!",
   "author": "Tabletop RPG Music",
   "authors": [
     {
@@ -27,12 +27,12 @@
       "name": "tabletop-rpg-music",
       "label": "Tabletop RPG Music",
       "path": "/packs/tabletop-rpg-music.db",
-      "entity": "Playlist",
+      "type": "Playlist",
       "private": false
     }
   ],
-  "system": [],
-  "dependencies": [],
+  "relationship.systems": [],
+  "relationships.requires": [],
   "socket": false,
   "manifest": "https://raw.githubusercontent.com/Tabletop-RPG-Music/tabletop-rpg-music/master/module.json",
   "download": "https://github.com/Tabletop-RPG-Music/tabletop-rpg-music/archive/master.zip",
